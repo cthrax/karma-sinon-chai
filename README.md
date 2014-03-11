@@ -1,3 +1,8 @@
+Forked
+======
+
+This was forked as a temporary measure to fix peer dependency version issues. This will go away once mainline updates.
+
 karma-sinon-chai
 ================
 
